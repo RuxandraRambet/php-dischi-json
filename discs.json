@@ -1,0 +1,38 @@
+[
+    {
+        "album_poster": "IMG",
+        "album_name":"New Jersey",
+        "artist": "Bon Jovi",
+        "year": 1988
+    },
+    {
+        "album_poster": "IMG",
+        "album_name":"Live at Wembley",
+        "artist": "Queen",
+        "year": 1992
+    },
+    {
+        "album_poster": "IMG",
+        "album_name":"Ten's Summoner's Tales",
+        "artist": "Sting",
+        "year": 1992
+    },
+    {
+        "album_poster": "IMG",
+        "album_name":"Steve Gadd band",
+        "artist": "Steve Gadd Band",
+        "year": 2018
+    },
+    {
+        "album_poster": "IMG",
+        "album_name":"Brave new World",
+        "artist": "Iron Maiden",
+        "year": 2000
+    },
+    {
+        "album_poster": "IMG",
+        "album_name":"One more car, one more rider",
+        "artist": "Eric Clapton",
+        "year": 2002
+    }
+]
