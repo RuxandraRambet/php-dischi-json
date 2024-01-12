@@ -14,6 +14,11 @@
 
 <body>
     <div id="app">
+        <header class="p-5 mb-5">
+                <div class="logo-container">
+                    <img src="src/img/logo-small.svg" alt="logo">
+                </div>
+        </header>
         <main>
             <div class="container text-center">
                 <ul class=" list-unstyled d-flex flex-wrap album">

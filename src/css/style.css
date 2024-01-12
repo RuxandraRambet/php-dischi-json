@@ -1,5 +1,18 @@
 body {
     background-color: #1d2d3c;
+    overflow-x: hidden;
+}
+header {
+    background-color: #112030 ;
+    width: 100vw;
+}
+.logo-container {
+    width: 80px; 
+}
+.logo-container  img {
+    width: 100%;
+    display: block;
+    margin-left: 100px;
 }
 .album {
     gap: 20px;
