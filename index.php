@@ -15,11 +15,13 @@
 <body>
     <div id="app">
         <main>
-            <div class="container">
-                <ul class="row row-cols-3">
-                    <li v-for="(disc, index) in discs" class="col p-4">
-                        <img :src="disc.album_poster" :alt="disc.album_name">
-                        <div class="disc-info">
+            <div class="container text-center">
+                <ul class=" list-unstyled d-flex flex-wrap album">
+                    <li v-for="(disc, index) in discs" class="p-4 album-container">
+                        <div class="card">
+                            <img :src="disc.album_poster" :alt="disc.album_name">
+                        </div>
+                        <div class="disc-info text-white py-3">
                             <h3>{{ disc.album_name }}</h3>
                             <h4>{{ disc.artist }}</h4>
                             <h4>{{ disc.year }}</h4>
